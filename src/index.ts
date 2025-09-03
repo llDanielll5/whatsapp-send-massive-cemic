@@ -246,11 +246,11 @@ const message = (name: string) => {
 
 Estou entrando em contato, pois o exame que o senhor(a) fez para concorrer a vaga de tratamento com implantes dentário chegou e o(a) senhor(a) foi selecionado(a).
 
-Sua avaliação com o especialista vai ser amanhã à partir das 17:00 horas no Conjunto Nacional. Os atendimentos são por ordem de chegada.
+Sua avaliação com o especialista vai ser amanhã à partir das 16:00 horas no Conjunto Nacional. Os atendimentos são por ordem de chegada.
 
 Pedimos que venha preparado(a) financeiramente, pois caso o(a) senhor(a) decida que vai ficar com a vaga deverá ser realizado o pagamento. Após o pagamento são 15 dias para chegar o material e seu tratamento será realizado.
 
-📅 Data: 28 de Agosto de 2025
+📅 Data: 14 de Setembro de 2025
 📍 Local: Conjunto Nacional - Torre Amarela - 5° andar - sala 5092
 
 *CASO JÁ ESTEJA EM TRATAMENTO NA CEMIC, DESCONSIDERAR ESTA MENSAGEM!*
